@@ -1,1 +1,24 @@
-/* Write your CSS here! */
+body {
+    background-color: black;
+    margin-left: 8px;
+  }
+  
+  h1 {
+    color: goldenrod;
+    margin-left: 8px;
+  }
+
+  h2 {
+      color: goldenrod;
+      margin-left: 8px;
+  }
+
+  h3{
+      color: goldenrod;
+      margin-left: 8px;
+  }
+
+  body {
+    color: gold;
+    margin-left: 8px;
+  }
